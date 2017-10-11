@@ -28,6 +28,8 @@
   height: 100%;
   text-align: center;
   box-sizing: inherit;
+  pointer-events: none;
+  z-index: 0;
 }
 
 .vjs-resolution-button .vjs-menu .vjs-menu-content {
